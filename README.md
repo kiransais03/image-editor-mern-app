@@ -34,10 +34,9 @@
 --"node index.js"
    To start and run the server.  
    Open http://localhost:8081 to view it in your browser.
-
 ### Deployed Links :
 
-#### --Backend : [https://talkingdocsai-backend.onrender.com/](https://image-editor-backend.onrender.com/)
+#### --Backend :https://image-editor-backend.onrender.com/
 (Backend Github Repo : https://github.com/kiransais03/image-editor-mern-app)
 
 
