@@ -1,4 +1,4 @@
-# image-editor-mern-app
+# Image-Editor-MERN-App
 
 ### Technologies Used : MERN(MongoDb,Express,React.js,Node.js)
 
