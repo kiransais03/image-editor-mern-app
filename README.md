@@ -34,11 +34,11 @@
    To start and run the server.  
    Open http://localhost:8081 to view it in your browser.
 
-### Deployed Links : Using Hosting
+### Deployed Links :
 
-#### --Backend : https://talkingdocsai-backend.onrender.com/
-(It is working fine)
-  <!-- (The issue with vercel is it will not work as a server.If we make a request it just start server and provide response again it will stop.Becasue of this MongoDb is causing issues) -->
+#### --Backend : [https://talkingdocsai-backend.onrender.com/](https://image-editor-backend.onrender.com/)
+(Backend Github Repo : https://github.com/kiransais03/image-editor-mern-app)
 
-#### --Frontend : https://talkingdocsai-frontend.vercel.app/
-  (It is working fine)
+
+#### --Frontend : https://image-editor-mern-app.vercel.app/
+(Frontend Github Repo : https://github.com/kiransais03/image-editor-mern-app-frontend)
