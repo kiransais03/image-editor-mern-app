@@ -4,7 +4,6 @@
 
 ### Dev Tools : VS Code,Github,Vercel
 
-(Note : Dear Sir/Madam,Apologies, Due to some problem I have not completed the project properly).
 ### Steps Required To Run Applications :
 
 #### Frontend -React :
